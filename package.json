@@ -175,7 +175,7 @@
       "dompurify": "3.3.2"
     },
     "serialize-javascript": "^7.0.3",
-    "svgo": "^2.8.2"
+    "svgo": "^2.8.4"
   },
   "nodemonConfig": {
     "ignore": [
